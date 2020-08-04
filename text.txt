@@ -1,0 +1,26 @@
+<div class="title-meat">
+        <a href="#meat">мясо</a>
+      </div>
+      <div class="lk-meta__add-product">
+        <div class="card-meat">
+          <form action="">
+            <img src="img/meat-1769188_1280.jpg" alt="meat" width="200" />
+            <input type="text" value="Свежее мясо" />
+            <input type="submit" value="удалить" />
+          </form>
+        </div>
+        <div class="card-meat">
+          <form action="">
+            <img src="img/meat-1769188_1280.jpg" alt="meat" width="200" />
+            <input type="text" value="Свежее мясо" />
+            <input type="submit" value="удалить" />
+          </form>
+        </div>
+        <div class="card-meat">
+          <form action="">
+            <img src="img/bg-ziro.jpg" alt="meat" width="200" />
+            <input type="text" value="Свежее мясо" />
+            <input type="submit" value="удалить" />
+          </form>
+        </div>
+      </div>
